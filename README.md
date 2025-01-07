@@ -268,11 +268,3 @@ We follow a trunk-based development workflow:
 4. Write meaningful commit messages
 5. Regular pushes prevent large merge conflicts
 
-## Need Help?
-
-- Check the #git-help Slack channel
-- Ask in team meetings
-- Contact your team lead
-- Review this documentation
-
-Remember: There are no "stupid" questions when it comes to Git. We're here to help!
